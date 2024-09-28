@@ -6,7 +6,7 @@ Este projeto consiste em uma série de scripts em C# que implementam soluções 
 
 - **Linguagem**: C#
 - **Plataforma**: .NET Core
-- **Ambiente de Desenvolvimento**: Visual Studio ou Visual Studio Code
+- **Ambiente de Desenvolvimento**: Visual Studio Code
 
 ## Como Rodar o Projeto
 
@@ -15,8 +15,8 @@ Este projeto consiste em uma série de scripts em C# que implementam soluções 
 
 2. **Clonando o Repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
-   cd seu_repositorio
+   git clone https://github.com/Jbrunholi/Teste-Logica.git
+   cd Teste-Logica
    ```
 
 3. **Compilando o Projeto**:
@@ -36,7 +36,6 @@ Este projeto consiste em uma série de scripts em C# que implementam soluções 
 - Ao executar o projeto, você será solicitado a escolher qual pergunta deseja rodar (1, 2, 3...).
 - Digite o número correspondente à pergunta desejada e pressione `Enter`.
 - Siga as instruções na tela para fornecer os dados necessários.
-- Após cada execução, você terá a opção de continuar fazendo novas verificações ou sair digitando `0` ou `N`.
 
 ## Estrutura do Projeto
 
