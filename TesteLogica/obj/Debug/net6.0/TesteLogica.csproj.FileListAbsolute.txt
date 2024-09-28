@@ -1,0 +1,15 @@
+C:\Teste Lógica\TesteLogica\bin\Debug\net6.0\TesteLogica.exe
+C:\Teste Lógica\TesteLogica\bin\Debug\net6.0\TesteLogica.deps.json
+C:\Teste Lógica\TesteLogica\bin\Debug\net6.0\TesteLogica.runtimeconfig.json
+C:\Teste Lógica\TesteLogica\bin\Debug\net6.0\TesteLogica.dll
+C:\Teste Lógica\TesteLogica\bin\Debug\net6.0\TesteLogica.pdb
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.AssemblyInfoInputs.cache
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.AssemblyInfo.cs
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.csproj.CoreCompileInputs.cache
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.dll
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\refint\TesteLogica.dll
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.pdb
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.genruntimeconfig.cache
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\ref\TesteLogica.dll
+C:\Teste Lógica\TesteLogica\obj\Debug\net6.0\TesteLogica.csproj.AssemblyReference.cache
