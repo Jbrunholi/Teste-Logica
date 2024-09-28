@@ -6,7 +6,7 @@ Este projeto consiste em uma série de scripts em C# que implementam soluções 
 
 - **Linguagem**: C#
 - **Plataforma**: .NET Core
-- **Ambiente de Desenvolvimento**: Visual Studio Code
+- **Ambiente de Desenvolvimento**: Visual Studio ou Visual Studio Code
 
 ## Como Rodar o Projeto
 
